@@ -1,5 +1,7 @@
 # Comment bien faire vos fichier excel et CSV.
 
+# ATTENTION CETTE VERSION N'EST PLUS DU TOUT A JOUR
+
 ## Points importants :
 
 * L'orthographe, une erreur de frappe mène a une erreur dans les tests (meme les epsaces).
