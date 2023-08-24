@@ -1,6 +1,6 @@
 # Comment bien faire vos fichier excel et CSV.
 
-# ATTENTION CETTE VERSION N'EST PLUS DU TOUT A JOUR
+# ATTENTION CETTE VERSION N'EST PLUS DU TOUT A JOUR (ici v1 celle en cours v3)
 
 ## Points importants :
 
